@@ -35,9 +35,9 @@ My academic journey has shaped the way I work—**precise, evidence-based, and f
 
 | Project | Description |
 |---------|-------------|
-| **[Traffic Accident Analysis in Nigeria (2020–2024)](#)** | An Excel-based end-to-end analysis of accident data across Nigeria, uncovering trends in road safety, fatalities, and causes. |
-| **[Arise Congress Registration Analysis](#)** | End-to-end Excel project analyzing participant registrations, attendance patterns, and engagement for a large-scale congress. |
-| **[Superstore Analysis](#)** | Comprehensive Excel dashboard project analyzing sales, profit, and product performance across categories and regions. |
+| **[Traffic Accident Analysis in Nigeria (2020–2024)](https://github.com/EjiroGee/Traffic-Accident-Analysis-in-Nigeria-2020-2024- )** | An Excel-based end-to-end analysis of accident data across Nigeria, uncovering trends in road safety, fatalities, and causes. |
+| **[Arise Congress Registration Analysis](https://github.com/EjiroGee/Arise-Congress-Registration-Analysis )** | End-to-end Excel project analyzing participant registrations, attendance patterns, and engagement for a large-scale congress. |
+| **[Superstore Analysis](https://github.com/EjiroGee/Superstore-analysis)** | Comprehensive Excel dashboard project analyzing sales, profit, and product performance across categories and regions. |
 
 ---
 
